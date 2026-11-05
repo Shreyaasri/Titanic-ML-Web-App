@@ -96,3 +96,10 @@ Data Science & AI | InternCircle Project 05
 ## 📄 Disclaimer
 
 This project is for educational purposes only. It demonstrates how a trained machine learning model can be integrated into a web application. It should not be used to make real-world decisions.
+
+
+## 🌐 Live Demo
+
+Try the Titanic Survival Predictor here:
+
+[Launch the Interactive App](https://titanic-ml-web-app-eygctv8dmeiyedmtkj8nvx.streamlit.app)
